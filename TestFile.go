@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Quality Assurance course test")
+	fmt.Println("Quality Assurance course test file")
 }
