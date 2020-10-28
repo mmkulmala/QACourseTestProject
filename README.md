@@ -8,7 +8,7 @@ a.) create a branch to it
 b.) do pull request and code review it
 c.) document this in a technical essay
 
-## Simple project
+## Simple Go project
 I was thinking learning a new programming language on top of my Java skills. 
 And I thought going back to Golang (has better job coverage than Rust :( ) would be nice! I compiles fast and it's easy to write
 
