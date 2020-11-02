@@ -9,11 +9,10 @@ import (
 )
 
 func main() {
-	f, err := os.Open("file2.txt")
+	f, err := os.Open("file.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
-	defer f.Close()
 
 	h := sha256.New()
 	if _, err := io.Copy(h, f); err != nil {
